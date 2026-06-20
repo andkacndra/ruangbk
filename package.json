@@ -20,7 +20,7 @@
     "dependencies": {
         "@heroicons/vue": "^2.2.0",
         "laravel-echo": "^2.3.4",
-        "lucide": "^1.17.0",
+        "lucide": "^1.21.0",
         "pusher-js": "^8.5.0"
     }
 }
