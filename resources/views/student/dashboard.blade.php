@@ -88,8 +88,18 @@
 
             <a href="{{ route('student.counseling') }}" class="bg-white rounded-[28px] p-5 shadow-sm hover:shadow-lg transition cursor-pointer hover:-translate-y-1 block">
 
-                <div class="bg-teal-100 w-14 h-14 rounded-2xl flex items-center justify-center text-3xl mb-4">
-                    📅
+                <div class="bg-teal-100 text-teal-600 w-16 h-16 rounded-2xl flex items-center justify-center mb-4">
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                        class="w-8 h-8"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor">
+
+                        <path stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="1.8"
+                            d="M7 8h10M7 12h5m-7 9h8l6-6V5a2 2 0 00-2-2H5a2 2 0 00-2 2v14a2 2 0 002 2zm8 0v-4a2 2 0 012-2h4"/>
+                    </svg>
                 </div>
 
                 <h3 class="font-semibold text-gray-800">
@@ -104,8 +114,18 @@
 
             <a href="{{ route('student.mental-test') }}" class="bg-white rounded-[28px] p-5 shadow-sm hover:shadow-lg transition cursor-pointer hover:-translate-y-1">
 
-                <div class="bg-orange-100 w-14 h-14 rounded-2xl flex items-center justify-center text-3xl mb-4">
-                    🧠
+                <div class="bg-orange-100 text-orange-600 w-16 h-16 rounded-2xl flex items-center justify-center mb-4">
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                        class="w-8 h-8"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor">
+
+                        <path stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="1.8"
+                            d="M9.5 4.5A3.5 3.5 0 006 8v.5A3.5 3.5 0 009.5 12H12V8a3.5 3.5 0 00-2.5-3.5zM14.5 4.5A3.5 3.5 0 0118 8v.5A3.5 3.5 0 0114.5 12H12V8a3.5 3.5 0 012.5-3.5zM9.5 12A3.5 3.5 0 006 15.5V16a3.5 3.5 0 003.5 3.5A3.5 3.5 0 0012 16v-4H9.5zM14.5 12A3.5 3.5 0 0118 15.5V16a3.5 3.5 0 01-3.5 3.5A3.5 3.5 0 0112 16v-4h2.5z"/>
+                    </svg>
                 </div>
 
                 <h3 class="font-semibold text-gray-800">
@@ -120,8 +140,18 @@
 
             <a href="{{ route('student.articles') }}" class="bg-white rounded-[28px] p-5 shadow-sm hover:shadow-lg transition cursor-pointer hover:-translate-y-1">
 
-                <div class="bg-blue-100 w-14 h-14 rounded-2xl flex items-center justify-center text-3xl mb-4">
-                    📚
+                <div class="bg-blue-100 text-blue-600 w-16 h-16 rounded-2xl flex items-center justify-center mb-4">
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                        class="w-8 h-8"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor">
+
+                        <path stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="1.8"
+                            d="M4 5h16v14H6a2 2 0 01-2-2V5zm4 4h4v4H8V9zm7 0h2m-2 4h2M8 16h9" />
+                    </svg>
                 </div>
 
                 <h3 class="font-semibold text-gray-800">
